@@ -1,0 +1,316 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 15;
+	--web-view-id: Web_1920___15;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___15;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___15 {
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(55,75,121,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 15;
+	--web-view-id: Web_1920___15;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_1556 {
+	opacity: 0.698;
+}
+.Rectangle_1556 {
+	position: absolute;
+	overflow: visible;
+	width: 1560px;
+	height: 829px;
+	left: 156px;
+	top: 160px;
+}
+#Back {
+	position: absolute;
+	left: 237px;
+	top: 163px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(91,139,135,1);
+}
+.icons8_arrow_24 {
+	width: 48px;
+	height: 48px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,183,166) rotate(180deg);
+	transform-origin: center;
+}
+#Rectangle_1557 {
+	opacity: 0.09;
+}
+.Rectangle_1557 {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 48px;
+	left: 175px;
+	top: 166px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+#_A10_Text_3 {
+	position: absolute;
+	left: 928px;
+	top: 806px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(0,0,0,1);
+}
+#_A10_Text_3 {
+	position: absolute;
+	left: 928px;
+	top: 806px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(0,0,0,1);
+}
+#Text_Field___Outlined___Unfill {
+	position: absolute;
+	width: 633px;
+	height: 89px;
+	left: 242px;
+	top: 228px;
+	overflow: visible;
+}
+#Account_Information {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 634px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 68px;
+	color: rgba(52,69,106,1);
+	letter-spacing: 0.095px;
+}
+#_A10_Text_5 {
+	position: absolute;
+	left: 585px;
+	top: 850px;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(0,0,0,1);
+}
+#__Name_ {
+	position: absolute;
+	left: 676px;
+	top: 348px;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Frank_Martin {
+	position: absolute;
+	left: 744px;
+	top: 408px;
+	overflow: visible;
+	width: 177px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(111,111,111,1);
+}
+#__Address_ {
+	position: absolute;
+	left: 676px;
+	top: 452px;
+	overflow: visible;
+	width: 193px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#ID700_E_Halsted_Chicago_IL__60 {
+	position: absolute;
+	left: 744px;
+	top: 512px;
+	overflow: visible;
+	width: 425px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(111,111,111,1);
+}
+#__Contact_ {
+	position: absolute;
+	left: 676px;
+	top: 556px;
+	overflow: visible;
+	width: 183px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Email__frankmartin_gmail_com_P {
+	position: absolute;
+	left: 744px;
+	top: 616px;
+	overflow: visible;
+	width: 413px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(111,111,111,1);
+}
+.LogoMakr_2cQsxQ {
+	position: absolute;
+	overflow: visible;
+	width: 637px;
+	height: 118px;
+	left: -62px;
+	top: 16px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+.icons8_user_96 {
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 208px;
+	left: 300px;
+	top: 367px;
+}
+.Icon_awesome_user_edit {
+	overflow: visible;
+	position: absolute;
+	width: 48.531px;
+	height: 38.407px;
+	left: 960px;
+	top: 253px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_1567 {
+	filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	height: 99px;
+	left: 706px;
+	top: 753px;
+}
+#Listed_Ads_ {
+	position: absolute;
+	left: 746px;
+	top: 766px;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_1582 {
+	filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 339px;
+	height: 99px;
+	left: 984px;
+	top: 752px;
+}
+#Purchase_History {
+	position: absolute;
+	left: 1024px;
+	top: 766px;
+	overflow: visible;
+	width: 231px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
