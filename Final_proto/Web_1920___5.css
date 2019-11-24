@@ -1,0 +1,599 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 5;
+	--web-view-id: Web_1920___5;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___5;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___5 {
+	position: absolute;
+	background: #E5E5E5;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(55,75,121,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 5;
+	--web-view-id: Web_1920___5;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Path_1000 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0));
+	overflow: visible;
+	position: absolute;
+	width: 19px;
+	height: 1098px;
+	left: 1909px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Snackbar___Text___Icon {
+	position: absolute;
+	width: 1696px;
+	height: 176px;
+	left: 101px;
+	top: 438px;
+	overflow: visible;
+}
+.Rectangle_595 {
+	filter: drop-shadow(0px 6px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1726px;
+	height: 206px;
+	left: 0px;
+	top: 0px;
+}
+#Snackbar___Text___Icon_A2_Group_16 {
+	position: absolute;
+	width: 1696px;
+	height: 192px;
+	left: 101px;
+	top: 691px;
+	overflow: visible;
+}
+.Rectangle_595_A2_Rectangle_136 {
+	filter: drop-shadow(0px 6px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1726px;
+	height: 222px;
+	left: 0px;
+	top: 0px;
+}
+#Text_Field___Outlined___Unfill {
+	position: absolute;
+	width: 310px;
+	height: 52px;
+	left: 101px;
+	top: 133px;
+	overflow: visible;
+}
+#Surface {
+	opacity: 0.5;
+}
+.Surface {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Popular_Phones {
+	position: absolute;
+	left: 149px;
+	top: 135px;
+	overflow: visible;
+	width: 218px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#Text_Field___Outlined___Unfill_A2_Group_18 {
+	position: absolute;
+	width: 310px;
+	height: 52px;
+	left: 101px;
+	top: 386px;
+	overflow: visible;
+}
+#Surface_A2_Rectangle_138 {
+	opacity: 0.5;
+}
+.Surface_A2_Rectangle_138 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Popular_Wearables {
+	position: absolute;
+	left: 143px;
+	top: 641px;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#Text_Field___Outlined___Unfill_A2_Group_19 {
+	position: absolute;
+	width: 310px;
+	height: 52px;
+	left: 101px;
+	top: 639px;
+	overflow: visible;
+}
+#Surface_A2_Rectangle_139 {
+	opacity: 0.5;
+}
+.Surface_A2_Rectangle_139 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 328px;
+	height: 70px;
+	left: 0px;
+	top: 0px;
+}
+#Popular_Laptops {
+	position: absolute;
+	left: 143px;
+	top: 388px;
+	overflow: visible;
+	width: 230px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#Snackbar___Text___Icon_A2_Group_20 {
+	position: absolute;
+	width: 1696px;
+	height: 176px;
+	left: 101px;
+	top: 185px;
+	overflow: visible;
+}
+.Rectangle_595_A2_Rectangle_140 {
+	filter: drop-shadow(0px 6px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1726px;
+	height: 206px;
+	left: 0px;
+	top: 0px;
+}
+#Snackbar___Text___Icon_A2_Group_21 {
+	position: absolute;
+	width: 1696px;
+	height: 180px;
+	left: 60px;
+	top: 181px;
+	overflow: visible;
+}
+.Screen_Shot_2019_11_05_at_6_48 {
+	filter: drop-shadow(0px 6px 10px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1726px;
+	height: 210px;
+	left: 0px;
+	top: 0px;
+}
+.Screen_Shot_2019_11_05_at_6_49 {
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	height: 175px;
+	left: 868px;
+	top: 186px;
+}
+.Screen_Shot_2019_11_05_at_6_50 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 176px;
+	left: 1289px;
+	top: 185px;
+}
+#__iPhone_11_Pro___1000_ {
+	position: absolute;
+	left: 212px;
+	top: 204px;
+	overflow: hidden;
+	width: 210px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#__iPhone_X___699 {
+	position: absolute;
+	left: 628px;
+	top: 205px;
+	overflow: hidden;
+	width: 210px;
+	height: 139px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___7.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#__Galaxy_Note_10___700_ {
+	position: absolute;
+	left: 966px;
+	top: 204px;
+	overflow: hidden;
+	width: 224px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#__Galaxy_Fold____2000_ {
+	position: absolute;
+	left: 1413px;
+	top: 204px;
+	overflow: hidden;
+	width: 224px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+.Screen_Shot_2019_11_05_at_6_50_A2_Rectangle_147 {
+	position: absolute;
+	overflow: visible;
+	width: 209px;
+	height: 176px;
+	left: 101px;
+	top: 438px;
+}
+.Screen_Shot_2019_11_05_at_6_51 {
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 176px;
+	left: 647px;
+	top: 439px;
+}
+.Screen_Shot_2019_11_05_at_6_51_A2_Rectangle_151 {
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	height: 175px;
+	left: 1189px;
+	top: 439px;
+}
+.Screen_Shot_2019_11_05_at_7_02 {
+	position: absolute;
+	overflow: visible;
+	width: 187px;
+	height: 192px;
+	left: 101px;
+	top: 691px;
+}
+.Screen_Shot_2019_11_05_at_7_05 {
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 192px;
+	left: 527px;
+	top: 691px;
+}
+.Screen_Shot_2019_11_05_at_7_05_A2_Rectangle_157 {
+	position: absolute;
+	overflow: visible;
+	width: 140px;
+	height: 192px;
+	left: 949px;
+	top: 691px;
+}
+.Screen_Shot_2019_11_05_at_7_02_A2_Rectangle_159 {
+	position: absolute;
+	overflow: visible;
+	width: 175px;
+	height: 192px;
+	left: 1350px;
+	top: 691px;
+}
+#_MacBook_Pro_15___1500__ {
+	position: absolute;
+	left: 317px;
+	top: 457px;
+	overflow: hidden;
+	width: 235px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#__MacBook___1000_ {
+	position: absolute;
+	left: 844px;
+	top: 458px;
+	overflow: hidden;
+	width: 210px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#__Pixelbook___300_ {
+	position: absolute;
+	left: 1429px;
+	top: 457px;
+	overflow: hidden;
+	width: 210px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#Apple_Watch_______Series_4___3 {
+	position: absolute;
+	left: 296px;
+	top: 718px;
+	overflow: hidden;
+	width: 210px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#Huawei_Watch____70_ {
+	position: absolute;
+	left: 683px;
+	top: 714px;
+	overflow: hidden;
+	width: 210px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#Fossil_Gen_3___100_ {
+	position: absolute;
+	left: 1097px;
+	top: 714px;
+	overflow: hidden;
+	width: 210px;
+	height: 139px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+#Apple_Watch_Series_3__150_ {
+	position: absolute;
+	left: 1545px;
+	top: 714px;
+	overflow: hidden;
+	width: 210px;
+	height: 147px;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_1500 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 65px;
+	left: 769px;
+	top: 947px;
+}
+#MORE {
+	position: absolute;
+	left: 868px;
+	top: 959px;
+	overflow: hidden;
+	width: 230px;
+	height: 35px;
+	text-align: center;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(17,17,12,1);
+}
+#Rectangle_1514 {
+	opacity: 0.3;
+}
+.Rectangle_1514 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.988));
+	position: absolute;
+	overflow: visible;
+	width: 346px;
+	height: 116px;
+	left: 1558px;
+	top: 18px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+}
+.icons8_user_24 {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 1596px;
+	top: 45px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+}
+#Franks_Account {
+	position: absolute;
+	left: 1679px;
+	top: 38px;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(172,206,203,1);
+}
+.icons8_arrow_24 {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 1809px;
+	top: 74px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+}
+.ID71iO2R_CLjL__AC_SL1500_ {
+	position: absolute;
+	overflow: visible;
+	width: 129.5px;
+	height: 176px;
+	left: 487px;
+	top: 185px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___7.html;
+	cursor: pointer;
+}
+.Rectangle_1531 {
+	position: absolute;
+	overflow: visible;
+	width: 818px;
+	height: 59px;
+	left: 647px;
+	top: 46px;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+input::placeholder {
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+.Icon_awesome_search {
+	overflow: visible;
+	position: absolute;
+	width: 50.493px;
+	height: 50.502px;
+	left: 576.3px;
+	top: 53.498px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Search_Item_ {
+	position: absolute;
+	left: 672px;
+	top: 52px;
+	overflow: visible;
+	width: 187px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(142,142,142,1);
+}
+.LogoMakr_2cQsxQ {
+	position: absolute;
+	overflow: visible;
+	width: 637px;
+	height: 118px;
+	left: -62px;
+	top: 16px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}

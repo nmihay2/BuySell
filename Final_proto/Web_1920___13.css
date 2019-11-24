@@ -1,6 +1,6 @@
 .mediaViewInfo {
-	--web-view-name: Web 1920 – 16;
-	--web-view-id: Web_1920___16;
+	--web-view-name: Web 1920 – 13;
+	--web-view-id: Web_1920___13;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
@@ -8,7 +8,7 @@
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Web_1920___16;
+	--web-view-ids: Web_1920___13;
 }
 * {
 	margin: 0;
@@ -16,7 +16,7 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Web_1920___16 {
+#Web_1920___13 {
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;
@@ -25,8 +25,8 @@
 	height: 100%;
 	background-color: rgba(55,75,121,1);
 	overflow: hidden;
-	--web-view-name: Web 1920 – 16;
-	--web-view-id: Web_1920___16;
+	--web-view-name: Web 1920 – 13;
+	--web-view-id: Web_1920___13;
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: fit;
 	--web-scale-on-resize: true;
@@ -216,12 +216,12 @@
 	left: 1407px;
 	top: 766px;
 }
-#PURCHASE_SUCCESSFUL {
+#POSTED_SUCCESSFULLY {
 	position: absolute;
 	left: 1531px;
 	top: 792px;
 	overflow: visible;
-	width: 339px;
+	width: 328px;
 	white-space: nowrap;
 	text-align: left;
 	font-family: Palatino Linotype;
@@ -237,9 +237,9 @@
 	height: 39px;
 	left: 1400px;
 	top: 755px;
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.3s linear;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: Web_1920___14.html;
 	cursor: pointer;
 }
 .Icon_metro_cross {
@@ -250,9 +250,9 @@
 	left: 1406.785px;
 	top: 761.076px;
 	transform: matrix(1,0,0,1,0,0);
-	--web-animation: fadein 0.3s ease-out;
+	--web-animation: fadein 0.3s linear;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: Web_1920___14.html;
 	cursor: pointer;
 }
 #Icon_feather_smile {
