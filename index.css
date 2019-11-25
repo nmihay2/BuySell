@@ -1,0 +1,214 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#index {
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(55,75,121,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+.Ellipse_2 {
+	width: 1px;
+	height: 21px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1015,568) rotate(165deg);
+	transform-origin: center;
+}
+.Ellipse_3 {
+	width: 1px;
+	height: 21px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,1015,568) rotate(165deg);
+	transform-origin: center;
+}
+.Rectangle_1494 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
+	position: absolute;
+	overflow: visible;
+	width: 451px;
+	height: 141px;
+	left: 1451px;
+	top: 36px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+}
+.icons8_user_24 {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 1501px;
+	top: 70px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+}
+#Hello__Frank_Account___ {
+	position: absolute;
+	left: 1601px;
+	top: 57px;
+	overflow: visible;
+	width: 134px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(17,17,12,1);
+}
+.Icon_ionic_md_notifications_ou {
+	overflow: visible;
+	position: absolute;
+	width: 38.475px;
+	height: 48.125px;
+	left: 1780px;
+	top: 71.875px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___15.html;
+	cursor: pointer;
+}
+.Rectangle_1515 {
+	position: absolute;
+	overflow: visible;
+	width: 408px;
+	height: 226px;
+	left: 523px;
+	top: 427px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+}
+.icons8_buy_50 {
+	position: absolute;
+	overflow: visible;
+	width: 124px;
+	height: 124px;
+	left: 571px;
+	top: 478px;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+}
+#Buy {
+	position: absolute;
+	left: 737px;
+	top: 491px;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(17,17,12,1);
+}
+.Rectangle_1516 {
+	position: absolute;
+	overflow: visible;
+	width: 408px;
+	height: 226px;
+	left: 999px;
+	top: 427px;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+}
+.Icon_awesome_dollar_sign {
+	overflow: visible;
+	position: absolute;
+	width: 67.697px;
+	height: 120.377px;
+	left: 1086px;
+	top: 489px;
+	transform: matrix(1,0,0,1,0,0);
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+}
+#Sell {
+	position: absolute;
+	left: 1203px;
+	top: 494px;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(17,17,12,1);
+}
+.LogoMakr_2cQsxQ {
+	position: absolute;
+	overflow: visible;
+	width: 1071px;
+	height: 198px;
+	left: 425px;
+	top: 21px;
+}
