@@ -18,8 +18,8 @@
 #Web_1920___3 {
 	position: absolute;
 	background: #E5E5E5;
-	width: 100%;
-	height: 100%;
+	width: 1920px;
+	height: 1080px;
 	background-color: rgba(55,75,121,1);
 	overflow: hidden;
 	--web-view-name: Web 1920 – 3;
@@ -42,6 +42,16 @@
 		opacity: 1;
 	}
 
+}
+input::placeholder {
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+input[type=checkbox] {
+	transform: scale(2)
 }
 .icons8_user_24 {
 	position: absolute;
@@ -118,7 +128,7 @@
 	top: 162px;
 	--web-animation: fadein 0.3s linear;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 .Icon_material_add_to_photos {
@@ -232,10 +242,15 @@
 	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 1));
 	position: absolute;
 	overflow: visible;
-	width: 461px;
-	height: 248px;
+	width: 445px;
+	height: 240px;
 	left: 0px;
 	top: 0px;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
 }
 #Used_this_phone_2_years__It_st {
 	position: absolute;
@@ -268,9 +283,14 @@
 	position: absolute;
 	overflow: visible;
 	width: 178px;
-	height: 70px;
+	height: 45px;
 	left: 0px;
 	top: 0px;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
 }
 #__300 {
 	position: absolute;
@@ -407,9 +427,14 @@
 	position: absolute;
 	overflow: visible;
 	width: 457px;
-	height: 70px;
+	height: 45px;
 	left: 0px;
 	top: 0px;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
 }
 #Carrier {
 	position: absolute;
@@ -455,9 +480,14 @@
 	position: absolute;
 	overflow: visible;
 	width: 178px;
-	height: 70px;
+	height: 45px;
 	left: 0px;
 	top: 0px;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
 }
 #Memory {
 	position: absolute;
@@ -546,7 +576,7 @@
 	top: 894px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #Cancel {
@@ -558,7 +588,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Palatino Linotype;
@@ -583,9 +613,14 @@
 	position: absolute;
 	overflow: visible;
 	width: 460px;
-	height: 70px;
+	height: 45px;
 	left: 0px;
 	top: 0px;
+	font-family: Palatino Linotype;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
 }
 #Google_Pixel_3_XL {
 	position: absolute;
@@ -640,6 +675,6 @@
 	top: 16px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }

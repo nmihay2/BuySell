@@ -21,8 +21,8 @@
 	transform: translateX(-50%);
 	left: 50%;
 	background: #E5E5E5;
-	width: 100%;
-	height: 100%;
+	width: 1920px;
+	height: 1080px;
 	background-color: rgba(55,75,121,1);
 	overflow: hidden;
 	--web-view-name: Web 1920 – 16;
@@ -239,7 +239,7 @@
 	top: 755px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 .Icon_metro_cross {
@@ -252,7 +252,7 @@
 	transform: matrix(1,0,0,1,0,0);
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #Icon_feather_smile {

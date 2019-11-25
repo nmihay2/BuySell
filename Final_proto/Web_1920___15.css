@@ -21,8 +21,8 @@
 	left: 50%;
 	top: 50%;
 	background: #E5E5E5;
-	width: 100%;
-	height: 100%;
+	width: 1920px;
+	height: 1080px;
 	background-color: rgba(55,75,121,1);
 	overflow: hidden;
 	--web-view-name: Web 1920 – 15;
@@ -87,7 +87,7 @@
 	top: 166px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #_A10_Text_3 {
@@ -248,7 +248,7 @@
 	top: 16px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 .icons8_user_96 {

@@ -18,8 +18,8 @@
 #Web_1920___2 {
 	position: absolute;
 	background: #E5E5E5;
-	width: 100%;
-	height: 100%;
+	width: 1920px;
+	height: 1080px;
 	background-color: rgba(55,75,121,1);
 	overflow: hidden;
 	--web-view-name: Web 1920 – 2;
@@ -118,7 +118,7 @@
 	top: 162px;
 	--web-animation: fadein 0.3s linear;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 .Icon_material_add_to_photos {
@@ -566,7 +566,7 @@
 	top: 894px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 #Cancel {
@@ -578,7 +578,7 @@
 	white-space: nowrap;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 	text-align: left;
 	font-family: Palatino Linotype;
@@ -675,7 +675,7 @@ input[type=checkbox] {
 	top: 16px;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
-	--web-action-target: Web_1920___1.html;
+	--web-action-target: index.html;
 	cursor: pointer;
 }
 .Icon_metro_bubble {
